@@ -3,7 +3,7 @@
 //  BeaconSampling
 //
 //  Created by Mani on 19/03/14.
-//  Copyright (c) 2014 SmartCues. All rights reserved.
+//  Copyright (c) 2014 Mani. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

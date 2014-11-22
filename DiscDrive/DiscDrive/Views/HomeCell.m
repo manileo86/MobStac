@@ -1,6 +1,6 @@
 //
 //  HomeCell.m
-//  SmartCues
+//  Mani
 //
 //  Created by Mani on 09/25/14.
 //  Copyright (c) 2014 Imaginea Inc. All rights reserved.

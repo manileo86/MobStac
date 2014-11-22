@@ -3,7 +3,7 @@
 //  DiscDrive
 //
 //  Created by Mani on 08/11/14.
-//  Copyright (c) 2014 SmartCues. All rights reserved.
+//  Copyright (c) 2014 Mani. All rights reserved.
 //
 
 #import "Utils.h"

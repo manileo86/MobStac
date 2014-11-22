@@ -3,7 +3,7 @@
 //  DiscDrive
 //
 //  Created by Mani on 08/11/14.
-//  Copyright (c) 2014 SmartCues. All rights reserved.
+//  Copyright (c) 2014 Mani. All rights reserved.
 //
 
 #import "Collector.h"
@@ -47,7 +47,7 @@
     BOOL success = [Beaconstac setupOrganizationId:89
                                          userToken:@"0c8b03d3f5342392b2a71fcbe5e58298c92feafd"
                                         beaconUUID:@"B9407F30-F5F8-466E-AFF9-25556B57FE6D"
-                                  beaconIdentifier:@"com.smartcues.diskdrive"];
+                                  beaconIdentifier:@"com.Mani.diskdrive"];
     // Credentials end
     
     if (success) {
@@ -209,7 +209,7 @@
         CLBeaconRegion *beaconRegion = [[CLBeaconRegion alloc]
                                         initWithProximityUUID:[[NSUUID alloc]
                                                                initWithUUIDString:@"B9407F30-F5F8-466E-AFF9-25556B57FE6D"]
-                                        major:50265 minor:18026 identifier:@"com.smartcues.LocationDemo"];
+                                        major:50265 minor:18026 identifier:@"com.Mani.LocationDemo"];
         [locationManager startMonitoringForRegion:beaconRegion];
     }
     else
